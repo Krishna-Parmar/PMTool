@@ -1,1 +1,1 @@
-# PMTool
+# PMTool project management tool
